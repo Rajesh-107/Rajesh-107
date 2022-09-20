@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Barua</h1>
+<img  width="400" src="https://animated-gif-creator.com/images/01/60-css-arrows_49.gif" alt="rajesh-107" />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center"> <img  width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="rajesh-107" /> </p>
 

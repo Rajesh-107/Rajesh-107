@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajesh Barua</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center"> <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="rajesh-107" /> </p>
+<p align="center"> <img  width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="rajesh-107" /> </p>
 
-<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=rajesh-107&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-107&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajesh-107" alt="rajesh-107" /></a> </p>
 

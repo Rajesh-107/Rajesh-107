@@ -1,5 +1,6 @@
+
+
 <h1 align="center">Hi 👋, I'm Rajesh Barua</h1>
-<img src="https://animated-gif-creator.com/images/01/60-css-arrows_49.gif" alt="rajesh-107" />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center"> <img  width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="rajesh-107" /> </p>
 
@@ -18,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MBEpSMYjBxb0O-SvBI1hx0bnsVvJoX4J/view?usp=sharing](https://drive.google.com/file/d/1MBEpSMYjBxb0O-SvBI1hx0bnsVvJoX4J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p style="display:flex" align="left">
+<p style="display:flex padding:5px" align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-barua-0b771a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-barua-0b771a209/" height="30" width="40" /></a>
 <a href="https://fb.com/rajesh barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajesh barua" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajesh dayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajesh dayz" height="30" width="40" /></a>

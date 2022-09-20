@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Barua</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="left"> <img src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="rajesh-107" /> </p>
+<p align="center"> <img src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="rajesh-107" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-107&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-107" /> </p>
 

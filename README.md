@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.ibb.co/ys98x88/Rajesh-Barua.png" alt="rajesh-107" /> </p>
 
 <h1 align="center">Hi 👋, I'm Rajesh Barua</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 <p align="center"> <img  width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="rajesh-107" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-107&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-107" /> </p>
